@@ -1,1 +1,2 @@
 fist line of text.txt
+second line of text.txt
