@@ -1,2 +1,3 @@
 fist line of text.txt
 second line of text.txt
+Third line of text.txt
